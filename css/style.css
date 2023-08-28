@@ -153,15 +153,16 @@
         position: fixed;
         background: var(--dark) !important;
     }
+   
 }
 
 
 /*** Hero Header ***/
 .hero-header {
-    background: linear-gradient(rgba(12, 20, 40, .6), rgba(12, 20, 40, .6)), url(../img/bg-hero.jpg);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
+  background: linear-gradient(rgba(12, 20, 40, .6), rgba(12, 20, 40, .6)), url(../img/bg-hero.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .hero-header img {
@@ -172,6 +173,12 @@
     100% { 
         transform: rotate(360deg); 
     } 
+}
+
+.about-sec{
+  background: linear-gradient(rgba(13, 21, 41, .7), rgba(13, 21, 41, .7)), url(../img/bg-sec.jpg);
+  background-attachment: fixed;
+	
 }
 
 .breadcrumb-item + .breadcrumb-item::before {
