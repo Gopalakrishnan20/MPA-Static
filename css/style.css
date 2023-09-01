@@ -159,7 +159,7 @@
 
 /*** Hero Header ***/
 .hero-header {
-  background: linear-gradient(rgba(12, 20, 40, .6), rgba(12, 20, 40, .6)), url(../img/bg-hero.jpg);
+  background: linear-gradient(rgba(12, 20, 40, .6), rgba(12, 20, 40, .6)), url(../img/bg-hero.webp);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -176,7 +176,7 @@
 }
 
 .about-sec{
-  background: linear-gradient(rgba(13, 21, 41, .7), rgba(13, 21, 41, .7)), url(../img/bg-sec.jpg);
+  background: linear-gradient(rgba(13, 21, 41, .7), rgba(13, 21, 41, .7)), url(../img/bg-sec.webp);
   background-attachment: fixed;
 	
 }
